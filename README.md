@@ -6,7 +6,7 @@ Opa
     
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=higorito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="120em" align="right" alt="higorito" src="https://media.giphy.com/media/ROyijmazFKRc4/giphy.gif">
-  <img height="80em"width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorito&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="80em"width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorito&layout=compact&langs_count=7&theme=tokyonight"/>
     
 </div>
 
