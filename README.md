@@ -16,6 +16,7 @@ Opa
   <img align="center" alt="higorito-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="higorito-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="higorito-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+ <img align="center" alt="higorito-arduino" height="30" width="40" src="https://img.icons8.com/fluency/344/flutter.png">
   
 </div>
 
