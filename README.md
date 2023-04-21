@@ -25,6 +25,6 @@ Opa
 
 <div>
   <a href = "mailto:higorps198@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "www.linkedin.com/in/higor-pereira-comp"><img width="75" src="https://d24wuq6o951i2g.cloudfront.net/img/events/id/457/457564044/assets/c.H.f0.b03.Logo-Blue-128px-R.png" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/higor-pereira-comp"><img width="75" src="https://d24wuq6o951i2g.cloudfront.net/img/events/id/457/457564044/assets/c.H.f0.b03.Logo-Blue-128px-R.png" target="_blank"></a>
   <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue" alt="higorito" /> 
 </div>
