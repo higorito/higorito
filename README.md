@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Higor</h1>
 <h3 align="center">A computer engineering student</h3>
 
+<img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-pessoas-digitando-28.gif">
+
 - 🌱 I’m currently learning **Rust, Flutter and RNA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/higorito](https://github.com/higorito)
