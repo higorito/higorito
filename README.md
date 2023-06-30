@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-pessoas-digitando-28.gif">
 
-- 🌱 I’m currently learning **Rust, Flutter and RNA**
+- 🌱 I’m currently learning **Flutter and RNA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/higorito](https://github.com/higorito)
 
