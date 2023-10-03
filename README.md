@@ -23,4 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=higorito&show_icons=true&theme=dracula&locale=en" alt="higorito" /></p>
 
-
+### 😂 Atualize a página
+<img src="http://lorempixel.com.br/512/400" width="512px"/>
